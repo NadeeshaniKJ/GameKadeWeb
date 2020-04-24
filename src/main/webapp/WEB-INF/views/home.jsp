@@ -9,6 +9,8 @@
     Hello world!
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<br><P>  The time on the server is ${serverTime}.
+<br><P><a href="login"> login</a>
+<br><P><a href="users">users </a>
 </body>
 </html>

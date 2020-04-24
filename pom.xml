@@ -8,7 +8,7 @@
 	<artifactId>GameKadeWeb3</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
-	
+
 	<name>GameKadeWeb3</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.kanchi.com</url>
@@ -195,12 +195,12 @@
 		</dependency>
 				
 		<!-- Servlet -->
-		<dependency>
+		<!--<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
 			<version>3.0-alpha-1</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency>-->
 		<dependency>
 			<groupId>javax.servlet.jsp</groupId>
 			<artifactId>jsp-api</artifactId>
